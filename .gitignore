@@ -9,3 +9,7 @@ file_database.sqlite
 # IDE / Tools
 .vscode/
 .continue/
+
+# Credentials - NIEMALS committen!
+Github_GH_Token.key
+Github_GH_Token.username
