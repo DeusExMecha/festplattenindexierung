@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Datenbank (lokal erzeugt)
+file_database.sqlite
+
+# IDE / Tools
+.vscode/
+.continue/
